@@ -11,4 +11,10 @@ public class GalleryActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gallery);
     }
+
+
+    public void play()
+    {
+        //play the file , right there
+    }
 }
